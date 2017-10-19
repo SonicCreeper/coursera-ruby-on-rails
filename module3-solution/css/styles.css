@@ -1,0 +1,41 @@
+body {
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+#nav-block {
+	background-color: #303a40;
+}
+nav.navbar{
+	-webkit-border-radius: 0;
+	        border-radius: 0;
+}
+
+nav .navbar-header .navbar-brand {
+	font-size: 1.4em;
+	color: #fff;
+}
+
+nav button.navbar-toggler {
+	float: right;
+	border: 1px solid white;
+}
+
+nav .nav-item:nth-child(1), nav .nav-item:nth-child(2) {
+	border-bottom: 1px solid #000;
+}
+.page-title {
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+.main-text {
+	background-color: #BCC6CB;
+	color: #000;
+	min-height: 1000px;
+}
+
+.main-text__title {
+	font-size: 1.2em;
+}
+
